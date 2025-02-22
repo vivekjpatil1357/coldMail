@@ -34,11 +34,11 @@ A web application that helps users generate personalized cold emails efficiently
 2. **Install dependencies:**
    ```sh
    # Frontend
-   cd client
+   cd frontend
    npm install
 
    # Backend
-   cd ../server
+   cd ../backend
    npm install
    ```
 
@@ -53,11 +53,11 @@ A web application that helps users generate personalized cold emails efficiently
 4. **Run the development servers:**
    ```sh
    # Start backend server
-   cd server
+   cd backend
    npm run dev
 
    # Start frontend
-   cd ../client
+   cd ../backend
    npm start
    ```
 
